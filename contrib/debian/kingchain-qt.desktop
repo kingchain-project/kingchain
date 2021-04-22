@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=KONGCOIN
+Comment=KONGCOIN P2P Cryptocurrency
+Comment[fr]=KONGCOIN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=KONGCOIN, eşten eşe kriptografik sanal para birimi
+Exec=kingchain-qt %u
+Terminal=false
+Type=Application
+Icon=kingchain128
+MimeType=x-scheme-handler/kingchain;
+Categories=Office;Finance;
