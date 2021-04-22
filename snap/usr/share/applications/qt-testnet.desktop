@@ -1,0 +1,14 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Type=Application
+Version=5.2.00
+Encoding=UTF-8
+Name=KingChain-Qt Testnet
+Icon=${SNAP}/qt-testnet.ico
+MimeType=x-scheme-handler/kingchain;
+Exec=kingchain.qt-testnet --testnet %u
+Terminal=false
+Categories=Office;Finance;
+Comment=KingChain Core Regression Test (by KingChain-Project)
+Keywords=internet;kingchain;testnet;qt;crypto;currency;snap;snapcraft;KONGCOIN-Project;daemon;cli;qt;zerocoin;zkong

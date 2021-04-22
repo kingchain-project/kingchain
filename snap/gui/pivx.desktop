@@ -1,0 +1,14 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Type=Application
+Version=5.2.00
+Encoding=UTF-8
+Name=Pivx-Qt
+Icon=${SNAP}/kingchain128.png
+MimeType=x-scheme-handler/kingchain;
+Exec=kingchain %u
+Terminal=false
+Categories=Office;Finance;Cryptocurrency;
+Comment=KONGCOIN Core (by KONGCOIN-Project)
+Keywords=internet;kingchain;main;qt;crypto;currency;snap;snapcraft;project;

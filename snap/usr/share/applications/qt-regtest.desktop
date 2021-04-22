@@ -1,0 +1,14 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Type=Application
+Version=5.2.00
+Encoding=UTF-8
+Name=KingChain-Qt Regtest
+Icon=${SNAP}/qt-regtest.ico
+MimeType=x-scheme-handler/kingchain;
+Exec=kingchain.qt-regtest %u
+Terminal=false
+Categories=Office;Finance;
+Comment=KingChain Core Regression Test (by KONGCOIN-Project)
+Keywords=internet;kingchain;regtest;qt;crypto;currency;snap;snapcraft;KONGCOIN-Project;project;daemon;cli;qt;zerocoin;zkong

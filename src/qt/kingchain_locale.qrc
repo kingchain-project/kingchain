@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/kingchain_bg.qm</file>
+        <file alias="ca">locale/kingchain_ca.qm</file>
+        <file alias="cs">locale/kingchain_cs.qm</file>
+        <file alias="da">locale/kingchain_da.qm</file>
+        <file alias="de">locale/kingchain_de.qm</file>
+        <file alias="en">locale/kingchain_en.qm</file>
+        <file alias="en_US">locale/kingchain_en_US.qm</file>
+        <file alias="eo">locale/kingchain_eo.qm</file>
+        <file alias="es">locale/kingchain_es.qm</file>
+        <file alias="es_ES">locale/kingchain_es_ES.qm</file>
+        <file alias="fi">locale/kingchain_fi.qm</file>
+        <file alias="fr_FR">locale/kingchain_fr_FR.qm</file>
+        <file alias="hi_IN">locale/kingchain_hi_IN.qm</file>
+        <file alias="hr">locale/kingchain_hr.qm</file>
+        <file alias="hr_HR">locale/kingchain_hr_HR.qm</file>
+        <file alias="it">locale/kingchain_it.qm</file>
+        <file alias="ja">locale/kingchain_ja.qm</file>
+        <file alias="ko_KR">locale/kingchain_ko_KR.qm</file>
+        <file alias="lt_LT">locale/kingchain_lt_LT.qm</file>
+        <file alias="nl">locale/kingchain_nl.qm</file>
+        <file alias="pl">locale/kingchain_pl.qm</file>
+        <file alias="pt">locale/kingchain_pt.qm</file>
+        <file alias="pt_BR">locale/kingchain_pt_BR.qm</file>
+        <file alias="ro_RO">locale/kingchain_ro_RO.qm</file>
+        <file alias="ru">locale/kingchain_ru.qm</file>
+        <file alias="sk">locale/kingchain_sk.qm</file>
+        <file alias="sv">locale/kingchain_sv.qm</file>
+        <file alias="tr">locale/kingchain_tr.qm</file>
+        <file alias="uk">locale/kingchain_uk.qm</file>
+        <file alias="vi">locale/kingchain_vi.qm</file>
+        <file alias="zh_CN">locale/kingchain_zh_CN.qm</file>
+        <file alias="zh_TW">locale/kingchain_zh_TW.qm</file>
+    </qresource>
+</RCC>
